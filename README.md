@@ -1,5 +1,3 @@
-Certainly, here's the content organized into a README.md document with a brief description above each step:
-
 ```markdown
 # Creating Certificates and Key Stores for Kafka TLS
 
